@@ -1,6 +1,6 @@
 # Full Stack with Next.js 13 App
 
-![Fullstack App](./public/images/GasyCarRental.PNG)
+![Fullstack App](./public/images/GasyCarRental.jpg)
 
 This is a repository for a Full Stack with Next.js 13 App.
 
